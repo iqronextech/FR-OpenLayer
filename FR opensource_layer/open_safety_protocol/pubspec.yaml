@@ -1,0 +1,14 @@
+name: open_safety_protocol
+description: A lightweight, open standard and SDK for child, female, and vulnerable person distress beacons, offline geofencing, and low-bandwidth emergency signaling.
+version: 1.0.0
+homepage: https://iqronex.com
+repository: https://github.com/iqronex/open-safety-protocol
+issue_tracker: https://github.com/iqronex/open-safety-protocol/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies: {}
+
+dev_dependencies:
+  test: ^1.24.0
